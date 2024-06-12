@@ -15,4 +15,13 @@
 
 ## Installation
 
-You can include `in-love.js` in your project by downloading the library or using a CDN.
+You can include `in-love.js` in your project by downloading the library or using npm.
+
+Run the following command in your terminal:
+
+```bash
+npm i in-love.js
+```
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
