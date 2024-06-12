@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Muffin's birthday</title>
+    <script type="text/javascript" src="vendor/jquery.js"></script>
+    <script type="text/javascript" src="./dist/in-love.js"></script>
+</head>
+<body>
+    <div id="mainDiv">
+            <div id="loveHeart">
+                <canvas id="heartbloom" width="670" height="625"></canvas>
+            </div>
+        <script type="text/javascript">
+            var offsetX = $("#loveHeart").width() / 2;
+            var offsetY = $("#loveHeart").height() / 2 - 55;
+            setTimeout(function () {
+                startHeartAnimation();
+            }, 5000);
+
+        </script>
+    </div>
+</body>
+</html>

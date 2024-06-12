@@ -1,0 +1,32 @@
+{
+  "name": "in-love.js",
+  "version": "1.0.0",
+  "description": "\"Impress your CS crush by effectively building love sites.\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abinesh-Mathivanan/in-love.js"
+  },
+  "keywords": [
+    "love",
+    "js",
+    "crush"
+  ],
+  "author": "beens",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-loader": "^9.1.3",
+    "chai": "^5.1.1",
+    "jest": "^29.7.0",
+    "mocha": "^10.4.0",
+    "puppeteer": "^22.10.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
