@@ -23,5 +23,9 @@ Run the following command in your terminal:
 npm i in-love.js
 ```
 
+## Documentation
+
+Read the [documentation here](https://abinesh-mathivanan.github.io/inlove-docs.io/#/).
+
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
