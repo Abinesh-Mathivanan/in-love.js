@@ -2,6 +2,9 @@
 
 `in-love.js` is a versatile JavaScript library designed to add romantic visual effects to your web pages. With features like falling sakura petals, pulsing hearts, fading messages, and falling hearts, you can effortlessly create a charming and enchanting atmosphere.
 
+![in-love.js](https://github.com/Abinesh-Mathivanan/in-love.js/assets/113496287/b2826419-f5fc-4a3e-b277-9033dc363634)
+
+
 ## Features
 
 - **Heart Bloom Animation**: Draws a blooming heart shape using a canvas.
