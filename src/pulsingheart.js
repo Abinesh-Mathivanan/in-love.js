@@ -1,4 +1,4 @@
-function pulsingHeartAnimation(elementId, startDelay = 1000, stopDelay = 5000) {
+export function pulsingHeartAnimation(elementId, startDelay = 1000, stopDelay = 5000) {
     const heart = document.getElementById(elementId);
 
     function startPulse() {
