@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "\"Impress your CS crush by effectively building love sites.\"",
   "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./lib/index.js",
+      "require": "./dist/in-love.js",
+      "default": "./dist/in-love.js"
+    }
+  },
   "scripts": {
     "build": "webpack"
   },

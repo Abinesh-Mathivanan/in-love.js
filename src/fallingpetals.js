@@ -2,7 +2,7 @@
 I added some functionalities that allows the user to control fall-speed, max-size, min-size and delay rate.
 */
 
-function initializeSakura() {
+export function initializeSakura() {
   class Sakura {
       constructor(selector, options) {
           if (typeof selector === 'undefined') {
@@ -216,6 +216,3 @@ function initializeSakura() {
 }
 
 document.addEventListener('DOMContentLoaded', initializeSakura);
-
-
-
